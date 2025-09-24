@@ -1,8 +1,8 @@
 <?php
 
-class Profile extends Controller{
+class Home extends Controller{
     public function index(){
         echo "Home controller";
-        $this->view("profile");
+        $this->view("home");
     }
 }

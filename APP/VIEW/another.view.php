@@ -1,0 +1,1 @@
+<h1>another view file</h1>

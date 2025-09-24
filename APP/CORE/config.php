@@ -1,6 +1,6 @@
 <?php
 
-define('ROOT', 'http://localhost/MVC/');
+define('ROOT', 'http://localhost/PHP-MVC/');
 
 define('DBHOST', 'localhost');
 define('DBNAME', '');
